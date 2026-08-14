@@ -1,0 +1,15 @@
+{
+  "geode": "5.6.0",
+  "version": "0.1.0",
+  "id": "icreate.android",
+  "name": "iCreate Android",
+  "developer": "iCreate Android",
+  "description": "Original Geometry Dash utility mod for Android.",
+  "gd": {
+    "android": "2.2081"
+  },
+  "tags": [
+    "utility"
+  ],
+  "dependencies": {}
+} 
